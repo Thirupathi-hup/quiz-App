@@ -50,17 +50,19 @@ Follow the steps below to set up and run the Quiz App locally.
 
 Install dependencies for  the client:
 
-bash Copy code
+```bash
 npm install
 npm start
+
 Running the App
 
 
 Start the front end development server:
 
-bash Copy code
+```bash 
 npm install
 npm start
+
 The front end will run on http://localhost:3000.
 
 

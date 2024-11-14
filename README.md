@@ -43,7 +43,7 @@ Follow the steps below to set up and run the Quiz App locally.
 
 1. Clone the repository:
    ```bash
-  https://github.com/Thirupathi-hup/quiz-App.git
+  https://github.com/Thirupathi-hup/quiz-App.git```
 Change directory to the project:
 
 Install dependencies for  the client:

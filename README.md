@@ -15,6 +15,8 @@ This is a simple multiple-choice Quiz App built with React for the front end and
 
 ![Quiz App Screenshot] (https://www.imghippo.com/i/Wb6568tE.png)
 
+## App link
+![Quiz App link] (https://project-quiz-app-deploy.netlify.app/)
 
 
 

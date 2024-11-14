@@ -20,6 +20,7 @@ This is a simple multiple-choice Quiz App built with React for the front end and
 
 ## Project Structure
 
+quiz-app/
 ├── public/
 ├── src/
 │   ├── components/
@@ -29,6 +30,7 @@ This is a simple multiple-choice Quiz App built with React for the front end and
 │   └── index.js                      # Entry point for React DOM rendering
 ├── package.json                      # Contains dependencies and scripts
 └── README.md                         # Project documentation
+
 
 ## Getting Started
 
